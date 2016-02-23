@@ -1,4 +1,9 @@
 # it484-git-assignment
 assignment for learning git
 
-Rachel Swansen
+
+Completed:
+* Travis Britz
+* Gunnar Slette
+* Solomon Woldegebriel
+* Rachel Swansen
