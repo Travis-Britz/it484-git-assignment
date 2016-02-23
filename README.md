@@ -6,3 +6,4 @@ Completed:
 * Travis Britz
 * Gunnar Slette
 * Solomon Woldegebriel
+* Rachel Swansen
